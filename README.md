@@ -25,3 +25,10 @@ The Certifications section lists completed courses and training to demonstrate c
 The website uses modern UI design principles such as cards, gradients, spacing, and responsive grids. CSS animations and hover effects are added to enhance interactivity while keeping the design clean and professional. The layout is fully responsive and adapts well to mobile, tablet, and desktop screens.
 
 This project demonstrates strong fundamentals in HTML structure, CSS styling, responsive design, and UI/UX thinking. It is suitable for use as a personal portfolio and for submission as a frontend internship or entry-level developer project.
+
+OUTPUT
+
+<img width="1696" height="870" alt="Image" src="https://github.com/user-attachments/assets/a4d68004-2e4a-4ff9-87dd-92037acd8b98" />
+<img width="1522" height="651" alt="Image" src="https://github.com/user-attachments/assets/279b2394-0f06-4631-adc4-1f205b0a3049" />
+<img width="1683" height="797" alt="Image" src="https://github.com/user-attachments/assets/58d0e604-fa35-462c-83fb-d46137bde31c" />
+<img width="1005" height="577" alt="Image" src="https://github.com/user-attachments/assets/13056787-9be7-41aa-acdd-5301c4c4b0eb" />
