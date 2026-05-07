@@ -1,4 +1,4 @@
-PERSONAL-PROTFOLIO-WEBPAGE
+# PERSONAL-PROTFOLIO-WEBPAGE
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-DESCRIPTION
+# DESCRIPTION
 
 This project is a responsive single-page developer portfolio website built using HTML and CSS. It is designed to showcase personal projects, technical skills, certifications, and contact information in a clean and modern layout.
 
@@ -26,7 +26,7 @@ The website uses modern UI design principles such as cards, gradients, spacing, 
 
 This project demonstrates strong fundamentals in HTML structure, CSS styling, responsive design, and UI/UX thinking. It is suitable for use as a personal portfolio and for submission as a frontend internship or entry-level developer project.
 
-OUTPUT
+# OUTPUT
 
 <img width="1696" height="870" alt="Image" src="https://github.com/user-attachments/assets/a4d68004-2e4a-4ff9-87dd-92037acd8b98" />
 <img width="1522" height="651" alt="Image" src="https://github.com/user-attachments/assets/279b2394-0f06-4631-adc4-1f205b0a3049" />
